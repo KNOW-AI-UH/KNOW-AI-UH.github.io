@@ -7,7 +7,7 @@ title: Publications by the Project Team
 - (Work in progress...)
 
 
-### Our work on Model Explainability:
+### Our recent work on Model Explainability:
 
 - __What do Transformers Know about Government?__
   - Jue Hou, Anisia Katinskaia, Lari Kotilainen, Sathianpong Trangcasanchai, Anh-Duc Vu, Roman Yangarber
@@ -19,7 +19,7 @@ title: Publications by the Project Team
   - [NAACL: 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics](https://2024.naacl.org/)
 
 
-### Our work on Model Sustainability:
+### Our recent work on Model Sustainability:
 
 - __Effects of sub-word segmentation on performance of transformer language models__
   - Jue Hou, Anisia Katinskaia, Anh-Duc Vu, Roman Yangarber
@@ -27,7 +27,7 @@ title: Publications by the Project Team
   - [Updated version on arXiv](https://arxiv.org/abs/2305.05480)
 
 
-### Our work on Information Extraction:
+### Our recent work on Information Extraction:
 
 - __Cross-lingual Named Entity Corpus for Slavic Languages__
   - Jakub Piskorski, Michał Marcińczuk, Roman Yangarber
