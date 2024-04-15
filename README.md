@@ -1,8 +1,5 @@
-# (WIP) Editorial - Jekyll Theme
-
-A Jekyll version of the "Editorial" theme by [HTML5 UP](https://html5up.net/).
-
-![Editorial Theme](assets/images/screenshot.jpg "Editorial Theme")
+# Know-AI
+This is a source code for [the Know-AI project website](https://know-ai-uh.github.io/). 
 
 # How to Use
 
