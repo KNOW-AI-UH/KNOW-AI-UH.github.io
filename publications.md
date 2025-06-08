@@ -29,19 +29,19 @@ title: Publications by the Project Team
 
 - __What do Transformers Know about Government?__
   - Jue Hou, Anisia Katinskaia, Lari Kotilainen, Sathianpong Trangcasanchai, Anh-Duc Vu, Roman Yangarber (2024)
-  - [LREC-COLING: Joint International Conference on Computational Linguistics, Language Resources and Evaluation](https://lrec-coling-2024.org/)
+  - [LREC-COLING: Joint International Conference on Computational Linguistics, Language Resources and Evaluation](https://lrec-coling-2024.org/) (Torino, Italy)
 
 
 - __Probing the Category of Verbal Aspect in Transformer Language Models__
   - Anisia Katinskaia, Roman Yangarber (2024)
-  - [NAACL: Annual Conference of the North American Chapter of the Association for Computational Linguistics](https://2024.naacl.org/)
+  - [NAACL: Annual Conference of the North American Chapter of the Association for Computational Linguistics](https://2024.naacl.org/) (Mexico City)
 
 
 ### Model Sustainability:
 
 - __Effects of sub-word segmentation on performance of transformer language models__
   - Jue Hou, Anisia Katinskaia, Anh-Duc Vu, Roman Yangarber (2023)
-  - [EMNLP: Conference on Empirical Methods in Natural Language Processing](https://aclanthology.org/2023.emnlp-main.459/)
+  - [EMNLP: Conference on Empirical Methods in Natural Language Processing](https://aclanthology.org/2023.emnlp-main.459/) (Singapore)
   - [Updated version on arXiv](https://arxiv.org/abs/2305.05480)
 
 
@@ -49,5 +49,5 @@ title: Publications by the Project Team
 
 - __Cross-lingual Named Entity Corpus for Slavic Languages__
   - Jakub Piskorski, Michał Marcińczuk, Roman Yangarber
-  - [LREC-COLING 2024: Joint International Conference on Computational Linguistics, Language Resources and Evaluation](https://lrec-coling-2024.org/)
+  - [LREC-COLING 2024: Joint International Conference on Computational Linguistics, Language Resources and Evaluation](https://lrec-coling-2024.org/) (Torino, Italy)
   - [Updated version on arXiv](https://arxiv.org/abs/2404.00482)
