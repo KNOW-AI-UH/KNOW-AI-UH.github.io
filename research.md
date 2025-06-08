@@ -6,13 +6,12 @@ title: Research
 ## Objectives
 
 1. We work on timely and urgent problems: building state-of-the-art models (LLMs) for tracking global threats
-  - Analysis of propaganda and disinformation:
-     - We organize [__SemEval 2025 Task 10: Multilingual Characterization and Extraction of
-      Narratives from Online News__](https://propaganda.math.unipd.it/semeval2025task10/)
-     - We organize [__Shared Task on: Detection and Classification of Persuasion Techniques in Slavic Languages__](https://bsnlp.cs.helsinki.fi/shared-task.html)
-  - Tracking epidemic outbreaks in global media:
-     - Our work in collaboration with [__European Commission's Joint Research Centre__](https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html)
-     -  [__PULS__](https://puls.cs.helsinki.fi/static/%20.html)
+    - Analysis of propaganda and disinformation:
+        - We organize [__SemEval 2025 Task 10: Multilingual Characterization and Extraction of Narratives from Online News__](https://propaganda.math.unipd.it/semeval2025task10/)
+        - We organize [__Shared Task on: Detection and Classification of Persuasion Techniques in Slavic Languages__](https://bsnlp.cs.helsinki.fi/shared-task.html)
+    - Tracking epidemic outbreaks in global media:
+        - Our work in collaboration with [__European Commission's Joint Research Centre__](https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html)
+        - [__PULS__](https://puls.cs.helsinki.fi/static/%20.html) information extraction
 2. We work on fundamental problems in LLMs — model explainability, confidence, and sustainability.
 
 
