@@ -2,7 +2,8 @@
 title: Research
 ---
 
-### Objectives
+
+## Objectives
 
 The objectives are:
 1. We pursue a timely and topical application: designing state-of-the-art large language models (LLMs) for detecting global social threats, with clear societal impacts.
@@ -23,6 +24,7 @@ The goal is to learn about propaganda and disinformation methods, and how they a
 
 We develop algorithms for multilingual media monitoring that will produce reliable real-time alerts on an open set of event types indicating global threats — including:
 - pandemic outbreaks,
+  - PULS: in collaboration with [__European Commission's Joint Research Centre__]()
 - terrorist attacks,
 - socio-political unrest,
 - human trafficking, smuggling of arms,

@@ -2,18 +2,26 @@
 title: Project Team
 ---
 
-### PIs
-
-- [__Lidia Pivovarova__](https://researchportal.helsinki.fi/en/persons/lidia-pivovarova) — postdoctoral researcher.
-
-- [__Roman Yangarber__](https://researchportal.helsinki.fi/fi/persons/roman-yangarber) — professor.
+- [__Lidia Pivovarova__](https://researchportal.helsinki.fi/en/persons/lidia-pivovarova) — PI, post-doctoral researcher
 
 
-### Doctoral researchers
+- [__Roman Yangarber__](https://researchportal.helsinki.fi/fi/persons/roman-yangarber) — PI, professor
 
-- [__Anh-Duc Vu__](https://researchportal.helsinki.fi/fi/persons/duc-vu-anh) — doctoral researcher.
 
-- [__Jue Hou__](https://researchportal.helsinki.fi/fi/persons/jue-hou) — doctoral researcher.
+- [__Silja Huttunen__](https://researchportal.helsinki.fi/fi/publications/?search=Silja+Huttunen&originalSearch=Silja+Huttunen&pageSize=50&ordering=rating&descending=true&showAdvanced=false&allConcepts=true&inferConcepts=true&searchBy=PartOfNameOrTitle) — post-doctoral researcher
+
+
+- [__Yiheng Wu__](https://researchportal.helsinki.fi/fi/persons/yiheng-wu)  — doctoral student
+
+
+- [__Anh-Duc Vu__](https://researchportal.helsinki.fi/fi/persons/duc-vu-anh) — doctoral student
+
+
+- [__Jue Hou__](https://researchportal.helsinki.fi/fi/persons/jue-hou) — doctoral student
+
+
+- [__Sathianpong Trangcasanchai__](https://researchportal.helsinki.fi/fi/publications/?search=Sathianpong+Trangcasanchai&originalSearch=Sathianpong+Trangcasanchai&pageSize=50&ordering=rating&descending=true&showAdvanced=false&allConcepts=true&inferConcepts=true&searchBy=PartOfNameOrTitle) — Master's student
+
 
 
 ### International Collaborators
@@ -26,4 +34,4 @@ title: Project Team
 
 - JRC: European Commission's Joint Research Centre:
   - [__Marco Verile__](http://emm.newsbrief.eu/overview.html) — Europe Media Monitor Team Leader / JRC.I.3: Text and Data Mining
-  - __Jakub Piskorski__
+  - [__Jakub Piskorski__](http://piskorski.waw.pl/)
