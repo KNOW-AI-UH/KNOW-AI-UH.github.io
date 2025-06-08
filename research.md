@@ -5,9 +5,16 @@ title: Research
 
 ## Objectives
 
-The objectives are:
-1. We pursue a timely and topical application: designing state-of-the-art large language models (LLMs) for detecting global social threats, with clear societal impacts.
-2. We explore fundamental problems in LLMs — in the context of this application, namely: model explainability, confidence, and sustainability.
+1. We work on timely and urgent problems: building state-of-the-art models (LLMs) for tracking global threats
+  - Analysis of propaganda and disinformation:
+    - We organize [__SemEval 2025 Task 10: Multilingual Characterization and Extraction of
+      Narratives from Online News__](https://propaganda.math.unipd.it/semeval2025task10/)
+    - We organize [__Shared Task on: Detection and Classification of Persuasion Techniques in Slavic Languages__](https://bsnlp.cs.helsinki.fi/shared-task.html)
+  - Tracking epidemic outbreaks in global media:
+    - Our work in collaboration with [__European Commission's Joint Research
+      Centre__](https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html)
+    -  [__PULS__](https://puls.cs.helsinki.fi/static/%20.html)
+2. We work on fundamental problems in LLMs — model explainability, confidence, and sustainability.
 
 
 ### Detecting Propaganda and Persuasion Techniques in Media
@@ -24,7 +31,6 @@ The goal is to learn about propaganda and disinformation methods, and how they a
 
 We develop algorithms for multilingual media monitoring that will produce reliable real-time alerts on an open set of event types indicating global threats — including:
 - pandemic outbreaks,
-  - PULS: in collaboration with [__European Commission's Joint Research Centre__]()
 - terrorist attacks,
 - socio-political unrest,
 - human trafficking, smuggling of arms,
@@ -39,4 +45,4 @@ To achieve these goals, we leverage High Performance Computing (HPC) to build an
 <!--
 ## Seminar
 ...
--->
+    -->
