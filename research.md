@@ -38,6 +38,9 @@ LLMs offer unparalleled quality of analysis, but are trained on "legacy" data, w
 To achieve these goals, we leverage High Performance Computing (HPC) to build and refine LLM methods, and a critical mass of international collaboration with collaborators who bring complementary expertise and resources.
 
 
+###  AI-Enhanced Knowledge Management in Business
+We aim at designing state-of-the-art LLMs for processing large collections of documents, with practical focus and clear societal or business impacts. The focus is in combining structured and unstructured data, i.e. internal company documents and knowledge bases that can be used to make a tailored application for a specific business. 
+
 <!--
 ## Seminar
 ...
