@@ -9,6 +9,12 @@ title: Recent Publications
   - [SemEval: 19th International Workshop on Semantic Evaluation](https://2025.aclweb.org/), at 63rd ACL Conference (Vienna, Austria)
 
 
+- __NarratEX Dataset: Explaining the Dominant Narratives in News Texts__
+  - Nuno Guimarães, Purificação Silvano, Ricardo Campos, Alípio Jorge, Ana Filipa Pacheco, Dimitar Iliyanov Dimitrov, Nikolaos Nikolaidis, Roman Yangarber, Elisa Sartori, Nicolas Stefanovitch, Preslav Nakov, Jakub Piskorski, Giovanni Da San Martino (2025)
+  - [EMNLP: Conference on Empirical Methods in Natural Language Processing](https://aclanthology.org/anthology-files/anthology-files/pdf/findings/2025.findings-emnlp.1112.pdf) (Suzhou, China)
+
+
+
 - __PolyNarrative: A Multilingual, Multilabel, Multi-domain Dataset for Narrative Extraction from News Articles__
   - Nikolaos Nikolaidis, Nicolas Stefanovitch, Purificação Silvano, Dimitar Dimitrov, Roman Yangarber, Nuno Guimarães, Elisa Sartori, Ion Androutsopoulos, Preslav Nakov, Giovanni Da San Martino, Jakub Piskorski (2025)
   - [ACL: 63rd Conference of Association for Computational Linguistics](https://2025.aclweb.org/) (Vienna, Austria)
@@ -17,6 +23,14 @@ title: Recent Publications
 - __Entity Framing and Role Portrayal in the News__
   - Tarek Mahmoud, Zhuohan Xie, Dimitar Dimitrov, Nikolaos Nikolaidis, Purificação Silvano, Roman Yangarber, Shivam Sharma, Elisa Sartori, Nicolas Stefanovitch, Giovanni Da San Martino, Jakub Piskorski, Preslav Nakov (2025)
   - [ACL: 63rd Conference of Association for Computational Linguistics](https://2025.aclweb.org/) (Vienna, Austria)
+
+
+- __FRaN-X: FRaming and Narratives-eXplorer__
+  - Artur Muratov, Hana Fatima Shaikh, Vanshikaa Jani, Tarek Mahmoud, Zhuohan Xie, Daniil Orel, Aaryamonvikram Singh, Yuxia Wang, Aadi Joshi, Hasan Iqbal, Ming Shan Hee, Dhruv Sahnan, Nikolaos Nikolaidis, Purificação Silvano, Dimitar Dimitrov, Roman Yangarber, Ricardo Campos, Alípio Jorge, Nuno Guimarães, Elisa Sartori, Nicolas Stefanovitch, Giovanni Da San Martino, Jakub Piskorski, Preslav Nakov (2025)
+  - [arXiv](https://arxiv.org/pdf/2507.06974)
+
+
+
 
 
 - __SlavicNLP 2025 Shared Task: Detection and Classification of Persuasion Techniques in Parliamentary Debates and Social Media__
