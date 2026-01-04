@@ -10,7 +10,7 @@ title: Research
         - We organize [__SemEval 2025 Task 10: Multilingual Characterization and Extraction of Narratives from Online News__](https://propaganda.math.unipd.it/semeval2025task10/)
         - We organize [__Shared Task on: Detection and Classification of Persuasion Techniques in Slavic Languages__](https://bsnlp.cs.helsinki.fi/shared-task.html)
     - Tracking outbreaks of epidemics in global media:
-        - Work in collaboration with [__European Commission's Joint Research Centre__](https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html)
+        - Collaboration with [__MediSys: European Commission's Joint Research Centre__](https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html)
         - [__PULS__](https://puls.cs.helsinki.fi/) information extraction from text media.
 2. We work on fundamental problems in LLMs — model explainability, confidence, and sustainability — please see Publications
 
