@@ -6,9 +6,10 @@ title: Research
 ## Research focus
 
 1. We work on timely problems: building state-of-the-art models for analyzing and tracking global threats:
-    - Analysis of propaganda and disinformation:
-        - We organize [__SemEval 2025 Task 10: Multilingual Characterization and Extraction of Narratives from Online News__](https://propaganda.math.unipd.it/semeval2025task10/)
-        - We organize [__Shared Task on: Detection and Classification of Persuasion Techniques in Slavic Languages__](https://bsnlp.cs.helsinki.fi/shared-task.html)
+    - Analysis of propaganda and disinformation
+    - We organize:
+        - [__SemEval 2025 Task 10: Multilingual Characterization and Extraction of Narratives from Online News__](https://propaganda.math.unipd.it/semeval2025task10/)
+        - [__Shared Task on: Detection and Classification of Persuasion Techniques in Slavic Languages__](https://bsnlp.cs.helsinki.fi/shared-task.html)
     - Tracking outbreaks of epidemics in global media:
         - Collaboration with [__MediSys: European Commission's Joint Research Centre__](https://medisys.newsbrief.eu/medisys/helsinkiedition/en/home.html)
         - [__PULS__](https://puls.cs.helsinki.fi/) information extraction from text media.
